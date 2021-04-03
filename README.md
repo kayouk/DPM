@@ -2,7 +2,6 @@
 
 <!--ts-->
    
-* [Completing in a cloud without installation](#completing-in-a-cloud-without-installation)
 * [Completing on your personal computer](#completing-on-your-personal-computer)
 * [Reporting problems and issues](#reporting-problems-and-issues)
 
