@@ -26,13 +26,7 @@ This is as simple as clicking on the `binder` badge above and requires to be con
 
 3.  Get source files.
 
-    Preferred option is to clone this repository using [git](https://git-scm.com/downloads).
-    ```bash
-    git clone https://github.com/IlyaKisil/dpm-coursework.git
-    ```
-    If this is the first time you hear about `git`, it is recommended to watch one of many introductory videos about it, for example [on YouTube](https://www.youtube.com/results?search_query=git+basics).
-    
-    Alternatively, you can download a ZIP folder with all materials for this assignment by using the `Clone or Download` button (in green color) at the top of this page. 
+    you can download a ZIP folder with all materials for this assignment by using the `Clone or Download` button (in green color) at the top of this page. 
     
 4.  Bootstrap virtual environment. 
     
