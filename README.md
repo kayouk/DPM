@@ -46,8 +46,6 @@ This is as simple as clicking on the `binder` badge above and requires to be con
     python -m ipykernel install --user --name "dpm-coursework" --display-name "dpm-coursework"    
     ```
     
-5.  Start JupyterLab and open a notebook with table of contents (should look like [this](https://github.com/IlyaKisil/dpm-coursework/blob/master/notebooks/0_Table_of_contents.ipynb)). You can find it under the `notebooks` directory. 
+5.  Start JupyterLab and open a notebook with table of contents. You can find it under the `notebooks` directory. 
 
-## Reporting problems and issues
-
-Please use one of [these forms](https://github.com/IlyaKisil/dpm-coursework/issues/new/choose) which supports `markdown` text formatting. It would also be helpful if you include as much relevant information as possible. This could include screenshots, code snippets etc.
+、
